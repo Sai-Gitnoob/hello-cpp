@@ -53,3 +53,29 @@ Run:
 ```
 ./output
 ```
+---
+
+
+## Goal
+
+Learn C++ deeply by:
+
+- building projects
+- solving problems
+- understanding memory and performance
+- writing clean code
+- learning modern C++
+- Progress
+
+This repository will continuously grow with:
+
+- new concepts
+- practice problems
+- mini projects
+- notes
+- experiments
+
+---
+### License
+
+This project is licensed under the MIT License.
