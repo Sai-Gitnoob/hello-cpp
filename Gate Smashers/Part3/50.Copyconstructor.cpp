@@ -1,6 +1,6 @@
 /**
  * ============================================================================
- * 📋 DEFAULT COPYING & THE DEFAULT COPY CONSTRUCTOR
+ *  DEFAULT COPYING & THE DEFAULT COPY CONSTRUCTOR
  * ============================================================================
  * 
  * • Core Concept:
@@ -22,7 +22,7 @@
 
 /**
  * ============================================================================
- * 🛠️ CONCRETE EXAMPLE: IMPLICIT DEFAULT COPY CONSTRUCTOR IN ACTION
+ *  CONCRETE EXAMPLE: IMPLICIT DEFAULT COPY CONSTRUCTOR IN ACTION
  * ============================================================================
  * 
  * Line Analysis for `Student s2 = s1;`:
